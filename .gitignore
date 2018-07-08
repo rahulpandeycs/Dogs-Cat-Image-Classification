@@ -1,0 +1,8 @@
+data/dogscats/models/*
+data/dogscats/sample/*
+data/dogscats/test1/*
+data/dogscats/train/cats/*
+data/dogscats/train/dogs/*
+data/dogscats/valid/cats/*
+data/dogscats/valid/dogs/*
+__pycache__/*
