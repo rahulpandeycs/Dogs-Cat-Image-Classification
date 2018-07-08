@@ -66,7 +66,7 @@ Change accordingly in vgg16.py and utils.py.
 Note: it looks like Keras 1 talks in “number of samples”. Keras 2 prefers “number of batches”. Beware.
 
 ### Python 2.x -> Python 3.x
-####Python 2.x:
+#### Python 2.x:
 
 1. import cPickle as pickle
 2. reload()
